@@ -3,6 +3,9 @@ Detects location and rotation of each (similar) objects/particles (You have to s
 As particles move around the images, it creates bounding boxes around them.
 The location(x,y) and rotations (from center, $\theta$ and each axis, $\omega$) 
 
+![demonstration](https://github.com/robxcalib3r/Rotation-invariant-template-matching/assets/34865153/4aeebc86-a39a-46e6-bb45-431eb235f498)
+
+
 ### v0.6
 1. Now, per frame data are being exported in CSV 
 2. Specific frames can be selected for computation
